@@ -8,7 +8,8 @@
 
 Welcome to my professional analytics portfolio. This repository showcases projects across business analytics, market research, data science, and business intelligence — developed through postgraduate studies in Business Analytics and Business Intelligence.
 
-📧 samruddhikarpe3@gmail.com
+📧 samruddhikarpe3@gmail.com  
+🔗 [linkedin.com/in/samruddhi-karpe](https://www.linkedin.com/in/samruddhi-karpe/)
 
 ---
 
